@@ -1,0 +1,48 @@
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe.config
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.pdb
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Dashboaed.resources
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Form1.resources
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Properties.Resources.resources
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.GenerateResource.cache
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.exe
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.pdb
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcWelcome.resources
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcAddItems.resources
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe.config
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.pdb
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcAddItems.resources
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcWelcome.resources
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Dashboaed.resources
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Form1.resources
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Properties.Resources.resources
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.GenerateResource.cache
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.exe
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.pdb
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.AssemblyReference.cache
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.AssemblyReference.cache
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcPlaceOrder.resources
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcPlaceOrder.resources
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcUpdateItems.resources
+C:\Users\JOY DAS\Desktop\C# project2\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcRemoveItems.resources
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcRemoveItems.resources
+C:\Users\JOY DAS\Desktop\C# project\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcUpdateItems.resources
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe.config
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.pdb
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.AssemblyReference.cache
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcAddItems.resources
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcPlaceOrder.resources
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcRemoveItems.resources
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcUpdateItems.resources
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.AllUserControls.UcWelcome.resources
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Dashboaed.resources
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Form1.resources
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Properties.Resources.resources
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.GenerateResource.cache
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.exe
+C:\Users\JOY DAS\Desktop\C# project3\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.pdb
